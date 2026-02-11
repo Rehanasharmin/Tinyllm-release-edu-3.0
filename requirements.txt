@@ -1,0 +1,11 @@
+# TinyLLM Dependencies
+# Minimal requirements for the educational language model
+
+# Core dependencies
+torch>=2.0.0          # PyTorch for neural network operations
+tqdm>=4.64.0          # Progress bars for training loop
+
+# Optional dependencies (uncomment if needed)
+# matplotlib>=3.0.0    # For visualization (not currently used)
+# seaborn>=0.11.0      # For statistical graphics (not currently used)
+# numpy>=1.20.0        # For numerical operations (used by PyTorch)
